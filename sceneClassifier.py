@@ -7,7 +7,7 @@ import os
 import PIL
 import numpy as np
 
-class objRec(object):
+class sceneRec(object):
     def __init__(self):
         # The structure of visualWordsDic is as such:
         # K = [id, [pos], {data1, data2,....}]
@@ -654,10 +654,10 @@ class objRec(object):
         file.write(result)
         file.close()
 
-test = objRec()
-testFilter = Filter()
-test.readVisaulWordsData()
-test.kmeans(150, 144, 2, True)
+#test = sceneRec()
+#testFilter = Filter()
+#test.readVisaulWordsData()
+#test.kmeans(150, 144, 2, True)
 #test.assignColorTagsToK()
 #test.computeVisualWordsOfImage()
 
