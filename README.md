@@ -17,4 +17,4 @@ Visual words of training image
 * [SUN](http://vision.princeton.edu/projects/2010/SUN/) I use SUN database for training and classification
 
 ## References
-Lazebnik, Svetlana, Cordelia Schmid, and Jean Ponce. "Beyond bags of features: Spatial pyramid matching for recognizing natural scene categories." Computer vision and pattern recognition, 2006 IEEE computer society conference on. Vol. 2. IEEE, 2006.
+Lazebnik, Svetlana, Cordelia Schmid, and Jean Ponce. *"Beyond bags of features: Spatial pyramid matching for recognizing natural scene categories." Computer vision and pattern recognition, 2006 IEEE computer society conference on.* Vol. 2. IEEE, 2006.
