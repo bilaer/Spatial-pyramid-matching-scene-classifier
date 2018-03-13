@@ -6,6 +6,7 @@ In this implementation, I impleneted a standard k-mean algorithms for generating
 
 ## Result
 Visual words of training image
+
 ![alt text](https://github.com/bilaer/Spatial-pyramid-matching-scene-classifier/blob/master/filter37.jpg)
 ![alt text](https://github.com/bilaer/Spatial-pyramid-matching-scene-classifier/blob/master/visualWord.jpg)
 
